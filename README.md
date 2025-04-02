@@ -1,19 +1,22 @@
 ![Header](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00A6FB&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=%E3%83%96%E3%83%AC%E3%83%8E%E3%83%BB%E3%82%BB%E3%83%AC%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%8E;Welcome+to+My+Tech+Universe!)
 
 
-# Hey there! I'm **Breno Celestino** 👨‍💻
-
 <!-- GIF on the right -->
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## ⚜ About Me
-🚀 I'm currently working on IoT applications
 
-🙋 I'm a Control and Automation engineering undergraduate student
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+🚀 I'm currently working on IoT applications  
+
+🙋 I'm a Control and Automation engineering undergraduate student  
 
 📚 I'm currently learning Docker, C++ and N8N implementations
 
-## 🔗 Connect With Me
+🎵 I love listening to Brazilian lofi while coding  
+
+
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/b.celestino___) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/breno-celestino/) 
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/.) 
