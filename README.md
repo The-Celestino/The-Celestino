@@ -1,7 +1,7 @@
-# Hey there! I'm Breno Celestino 👨‍💻
+![Header](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00A6FB&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=%E3%83%96%E3%83%AC%E3%83%8E%E3%83%BB%E3%82%BB%E3%83%AC%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%8E;Welcome+to+My+Tech+Universe!)
 
-<!-- Header Banner - Replace URL with your own banner image: (https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:000000&height=200&section=header&text=Software%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Passionate%20about%20tech%20and%20innovation&descAlignY=50&descAlign=50 -->
-![Header](https://media.licdn.com/dms/image/v2/D5616AQH1UABj98N6gg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731430255357?e=1749081600&v=beta&t=cn7zz2U_WYqKDvgotJN5_yQ4zFQG05quaQdpZdibcEE)
+
+# Hey there! I'm Breno Celestino 👨‍💻
 
 <!-- GIF on the right -->
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -9,10 +9,9 @@
 ## ⚜ About Me
 🚀 I'm currently working on IoT applications
 
-🙋 I'm a Control and Automation engineer undergraduate student
+🙋 I'm a Control and Automation engineering undergraduate student
 
 📚 I'm currently learning Docker, C++ and N8N implementations
-
 
 ## 🔗 Connect With Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/b.celestino___) 
