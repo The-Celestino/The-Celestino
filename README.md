@@ -1,7 +1,7 @@
 ![Header](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00A6FB&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=%E3%83%96%E3%83%AC%E3%83%8E%E3%83%BB%E3%82%BB%E3%83%AC%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%8E;Welcome+to+My+Tech+Universe!)
 
 
-# Hey there! I'm Breno Celestino 👨‍💻
+# Hey there! I'm **Breno Celestino** 👨‍💻
 
 <!-- GIF on the right -->
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -35,9 +35,6 @@
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=The-Celestino&theme=algolia&hide_border=false&include_all_commits=false&count_private=false" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=The-Celestino&theme=algolia&hide_border=false" />
-</div>
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Celestino&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
@@ -45,6 +42,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=The-Celestino&icon=6&color=1" />
-</div>
+
