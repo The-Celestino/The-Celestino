@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**CelestinoPy/CelestinoPy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/b.celestino___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/breno-celestino/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/.) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@.) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:brenocauecelestino@icloud.com) 
 
-Here are some ideas to get you started:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=plastic&logo=grafana&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=plastic&logo=home-assistant&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api?username=The-Celestino&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=The-Celestino&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Celestino&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+[![](https://visitcount.itsvg.in/api?id=The-Celestino&icon=6&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
