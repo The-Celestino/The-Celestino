@@ -3,7 +3,7 @@
 
 <!-- GIF on the right -->
 
-## ⚜ About Me
+## ⚡ About Me
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -41,9 +41,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Celestino&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
-<div align="center">
+
 
 ## 💭 Quote of the Day  
+<div align="center">
+  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
 
 </div>
